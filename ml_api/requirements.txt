@@ -1,0 +1,8 @@
+Flask==3.0.3
+Flask-Cors==4.0.1
+pymongo==4.8.0
+pandas==2.2.2
+scikit-learn==1.5.2
+numpy==2.1.1
+joblib==1.4.2
+regex==2024.7.24
